@@ -7,4 +7,4 @@ matplotlib
 requests
 opencv-python
 opencv-python-headless
-cv2
+cv
