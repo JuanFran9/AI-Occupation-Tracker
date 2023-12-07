@@ -6,3 +6,4 @@ ultralytics
 matplotlib
 requests
 opencv-python
+opencv-python-headless
