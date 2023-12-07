@@ -1,0 +1,8 @@
+streamlit
+python_dotenv
+numpy
+pandas
+ultralytics
+matplotlib
+requests
+opencv-python
