@@ -1,7 +1,7 @@
 numpy
-opencv-python-headless
-python_dotenv
 pandas
+opencv-python-headless==4.6.0.66
+python_dotenv
 ultralytics
 matplotlib
 requests
