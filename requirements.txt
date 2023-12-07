@@ -1,7 +1,6 @@
-streamlit
-python_dotenv
-numpy
 opencv-python-headless
+numpy
+python_dotenv
 pandas
 ultralytics
 matplotlib
