@@ -1,5 +1,5 @@
-opencv-python-headless
 numpy
+opencv-python-headless
 python_dotenv
 pandas
 ultralytics
